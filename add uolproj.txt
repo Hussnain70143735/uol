@@ -1,2 +1,3 @@
 i am student 
 i am reading git hub
+merging the line
