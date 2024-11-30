@@ -2,6 +2,6 @@ i am student
 i am reading git hub
 <<<<<<< HEAD
 merging the line
-=======
+we are connecting global
 we are adding conflict 
 >>>>>>> master
